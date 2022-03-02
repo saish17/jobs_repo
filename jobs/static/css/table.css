@@ -1,0 +1,22 @@
+table{
+  color: yellow;
+  margin: auto;
+  border: 2px solid brown;
+}
+
+img{
+  height:200px;
+  width:30%;
+  margin: 1.5%;
+  float:left;
+  border: 2px solid brown;
+}
+
+thead,th{
+  color: blue;
+  background: white;
+}
+
+tr:nth-of-type(even){
+  color: red;
+}
